@@ -1,3 +1,7 @@
+<?php
+	$lorem = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec sollicitudin justo vel blandit consequat. Suspendisse sollicitudin pharetra lorem in ullamcorper. Nunc venenatis lacus vel mauris imperdiet dignissim. Cras rutrum magna mi, eu sodales ipsum facilisis a. Morbi eleifend leo vel tortor tincidunt, ut auctor enim mattis. Vivamus pretium est augue, quis vulputate libero interdum sed. Mauris posuere quam quis faucibus mollis. Cras hendrerit eu massa semper imperdiet.";
+?>
+
 <!DOCTYPE html>
 <html>
 	<head>

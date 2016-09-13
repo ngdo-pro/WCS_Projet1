@@ -10,30 +10,31 @@
 <section id="section_events">
 	<div class="container-fluid">
 		<h2>Les événements et actualités</h2>
-		<div class="container-fluid">
+		<div class="container">
 			<div class="row">
-				<div class="col-xs-4"><img src="assets/img/food.jpg" class="img-responsive img-thumbnail"></div>
-				<div class="col-xs-8">
-					<ul class="list-unstyled">
-						<li>
-							<h3>Evenement 1</h3> <p>
-								Lorem ipsum
-							</p>
-						</li>
-						<li>
-							<h3>Evenement 2</h3> <p>
-								Lorem ipsum
-							</p>
-						</li><li>
-							<h3>Evenement 3</h3> <p>
-								Lorem ipsum
-							</p>
-						</li><li>
-							<h3>Evenement 4</h3> <p>
-								Lorem ipsum
-							</p>
-						</li>
-					</ul>
+				<div class="col-md-4">
+					<div class="card">
+						<img src="assets/img/food2.jpg" class="img-circle" width="140px" height="140px"/>
+						<h3>Titre Actu</h3>
+						<p><?php echo $lorem; ?></p>
+						<div><button class="btn btn-default">En savoir plus</button></div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="card">
+						<img src="assets/img/food2.jpg" class="img-circle" width="140px" height="140px"/>
+						<h3>Titre Actu</h3>
+						<p><?php echo $lorem; ?></p>
+						<div><button class="btn btn-default">En savoir plus</button></div>
+					</div>
+				</div>
+				<div class="col-md-4">
+					<div class="card">
+						<img src="assets/img/food2.jpg" class="img-circle" width="140px" height="140px"/>
+						<h3>Titre Actu</h3>
+						<p><?php echo $lorem; ?></p>
+						<div><button class="btn btn-default">En savoir plus</button></div>
+					</div>
 				</div>
 			</div>
 		</div>

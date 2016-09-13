@@ -160,6 +160,34 @@ section .btn:hover{
 	margin-top: 0;
 }
 
+#section_events img{
+	display: block;
+	margin: auto;
+}
+
+#section_events h3{
+	text-align: center;
+}
+
+#section_events p{
+	padding: 20px;
+	text-align: justify;
+}
+
+#section_events .card{
+	background: linear-gradient(to bottom, transparent, #f0f0f0);
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+#section_events .card div{
+	text-align: center;
+}
+
+#section_events .card button{
+	bottom: 5px;
+}
+
 #section_franchise{
 	background: url('../img/food.jpg');
 	background-position: center;
