@@ -3,8 +3,10 @@
 	include('layout/header.php');
 
 ?>
-<h1 class="text-center">Devenez franchisé Ratatouille</h1>
-<section id="possibilities_franchise">
+<section id="section_become_franchised">
+	<h1 class="text-center">Devenez franchisé Ratatouille</h1>
+</section>
+<section id="section_possibilities_franchise">
 	<h2>Des possibilités de développement infinies</h2>
 	<div class="container-fluid">
 		<div class="row">
@@ -22,7 +24,7 @@
 		</div>
 	</div>
 </section>
-<section id="advantages_franchise">
+<section id="section_advantages_franchise">
 	<h2>Rejoignez le réseau des restaurants Ratatouille</h2>
 	<div class="container-fluid">
 		<div class="row">

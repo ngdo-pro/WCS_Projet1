@@ -83,7 +83,7 @@ body>.container-fluid{
 
 /*
 
-	SECTION
+	SECTION HOMEPAGE
 
 */
 
@@ -207,6 +207,18 @@ section .btn:hover{
 	margin-bottom: 0;
 	position: absolute;
 	transform: translateX(-50%);
+}
+
+/*
+
+	SECTION FRANCHISE
+
+*/
+
+#section_become_franchised{
+	background: url('../img/food.jpg');
+	background-position: center;
+	background-size: cover;
 }
 
 /*
