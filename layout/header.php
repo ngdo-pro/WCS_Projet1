@@ -21,13 +21,13 @@
 							<a href="#"><strong>En</strong></a>
 						</li>
 						<li>
-							<a href="#"><img src="assets/img/facebook.png"></a>
+							<a href="#"><img src="assets/img/Ratatouille-button-facebook.png"></a>
 						</li>
 						<li>
-							<a href="#"><img src="assets/img/twitter.png"></a>
+							<a href="#"><img src="assets/img/Ratatouille-button-twitter.png"></a>
 						</li>
 						<li>
-							<a href="#"><img src="assets/img/instagram.png"></a>
+							<a href="#"><img src="assets/img/Ratatouille-button-instagram.png"></a>
 						</li>
 					</ul>
 				</div>
