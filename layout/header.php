@@ -44,7 +44,7 @@
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span>
   					</button>
-  					<a class="navbar-left" href="#"><img src="assets/img/logo-ratatouille.png"></a>
+  					<a class="navbar-left" href="index.php"><img src="assets/img/logo-ratatouille.png"></a>
 				</div>
 				<!-- partie cachée dans le menu hamburger en mode mobile, visible sur les autres support-->
 				<div class="collapse navbar-collapse" id="main-nav-collapse">
