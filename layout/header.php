@@ -4,7 +4,9 @@
 		<title>Ratatouille <?php if (isset($titre)){?>| <?php echo $titre;}?></title>
 		<meta charset="utf-8">
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/style.css">		
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css">	
+		<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">	
+		<link href="https://fonts.googleapis.com/css?family=Baloo+Paaji" rel="stylesheet">
 	</head>
 	<body>
 		<!-- Conteneur de la page pour permettre l'utilisation de bootstrap-->
