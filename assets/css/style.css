@@ -239,6 +239,12 @@ section .btn:hover{
 	transform: translateX(-50%);
 }
 
+/*
+
+	SECTION CONCEPT RATATOUILLE
+
+*/
+
 #section_introconcept{
 	margin-top: 60px;
 }
@@ -290,6 +296,7 @@ section .btn:hover{
 	padding-bottom:20px;
 }
 
+
 /*
 
 	SECTION FRANCHISE
@@ -312,6 +319,38 @@ section .btn:hover{
 #section_form_franchise .form-button{
     text-align: center;
 }
+
+/*
+
+	PAGE NOS RESTAURANTS
+
+*/
+
+#top_page_restaurants{
+	margin-top: 60px;
+}
+
+#top_page_restaurants p{
+	margin-top: 15px;
+	margin-bottom: 80px;
+}
+
+#ratatouille_laloupe{
+	background: linear-gradient(to bottom, transparent, #f0f0f0);
+	padding: 60px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /*
