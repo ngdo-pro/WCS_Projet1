@@ -4,24 +4,25 @@
 	include ('layout/header.php');
 ?>
 
-<!-- SECTION INTRO_CONCEPT -->
+
 <body>
 	<div class="container"> 
+
+<!-- SECTION INTRO_CONCEPT -->
 		<section id="section_introconcept">		
 		<div class="container">
-			<div class="row"> 	<!-- H1 et texte d'intro -->
+			<div class="row"> 	<!-- H1 + LOGO -->
 				<div class="col-sm-12 col-md-6">
 					<h1 class="text-left">LE CONCEPT RATATOUILLE </h1>
-				</div>
-				<div class="col-sm-12 col-md-6">
-					<img src="assets/img/logo-ratatouille-page-concept-250x250.png" alt="Logo Ratatouille" width="140" height="140">
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-6">
 					<p class="text-left">Les restaurants Ratatouille sont des lieux de rencontres qui respirent la cuisine provencale et la douceur de vivre du sud de la france et où la ratatouille est declinée sous toutes ses formes.</p>	
 				</div>
-			</div>
+				
+				<aside>
+				<div class="col-xs-12 col-md-6"> <!-- LOGO R -->
+					<img src="assets/img/logo-ratatouille-page-concept-250x250.png" alt="Logo Ratatouille" width="180" height="180"> 
+				</div>
+				</aside>			
+			</div>			
 		</div>
 		</section>
 
@@ -35,7 +36,7 @@
 					</div>
 				</div>
 				<div class="col-sm-12 col-md-6 col-md-pull-6">
-					<img src="https://hd.unsplash.com/photo-1468730533502-216da872eab2" class="img-responsive" alt="Responsive image">
+					<img src="assets/img/ratatouille-concept-histoire.jpg" alt="photo-histoire-restaurants-ratatouille">
 				</div>		
 			</div>
 		</section>			
@@ -50,7 +51,7 @@
 					</div>
 				</div>
 				<div class="col-sm-12 col-md-6">
-					<img src="https://hd.unsplash.com/photo-1444228425018-ff8535a55c93" class="img-responsive" alt="responsive image">
+					<img src="assets/img/ratatouille-concept-savoirfaire.jpg" alt="photo-savoir-faire-restaurants-ratatouille">
 				</div>
 			</div>
 		</section>
@@ -65,7 +66,7 @@
 					</div>
 				</div>
 				<div class="col-sm-12 col-md-6 col-md-pull-6">
-					<img src="https://hd.unsplash.com/photo-1461354464878-ad92f492a5a0" class="img-responsive" alt="image responsive">
+					<img src="assets/img/ratatouille-concept-engagement-qualite.jpg" class="img-responsive" alt="photo-savoir-faire-restaurants-ratatouille">
 				</div>		
 			</div>
 		</section>	
