@@ -4,7 +4,9 @@
 		<title>Ratatouille <?php if (isset($titre)){?>| <?php echo $titre;}?></title>
 		<meta charset="utf-8">
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
-		<link rel="stylesheet" type="text/css" href="assets/css/style.css">		
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css">	
+		<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">	
+		<link href="https://fonts.googleapis.com/css?family=Baloo+Paaji" rel="stylesheet">
 	</head>
 	<body>
 		<!-- Conteneur de la page pour permettre l'utilisation de bootstrap-->
@@ -19,13 +21,13 @@
 							<a href="#"><strong>En</strong></a>
 						</li>
 						<li>
-							<a href="#"><img src="assets/img/facebook.png"></a>
+							<a href="#"><img src="assets/img/Ratatouille-button-facebook.png"></a>
 						</li>
 						<li>
-							<a href="#"><img src="assets/img/twitter.png"></a>
+							<a href="#"><img src="assets/img/Ratatouille-button-twitter.png"></a>
 						</li>
 						<li>
-							<a href="#"><img src="assets/img/instagram.png"></a>
+							<a href="#"><img src="assets/img/Ratatouille-button-instagram.png"></a>
 						</li>
 					</ul>
 				</div>
@@ -40,7 +42,7 @@
 				        <span class="icon-bar"></span>
 				        <span class="icon-bar"></span>
   					</button>
-  					<a class="navbar-left" href="#"><img src="assets/img/logo-ratatouille.png"></a>
+  					<a class="navbar-left" href="#"><img src="assets/img/logo-ratatouille-header-420x115.png"></a>
 				</div>
 				<!-- partie cachée dans le menu hamburger en mode mobile, visible sur les autres support-->
 				<div class="collapse navbar-collapse" id="main-nav-collapse">

@@ -25,7 +25,7 @@
 						</div>
 						<div class="col-xs-12 col-sm-4">
 							<ul class="list-unstyled">
-								<li><a href="#"><img src="assets/img/facebook.png"></a><a href="#"><img src="assets/img/twitter.png"></a><a href="#"><img src="assets/img/instagram.png"></a></li>
+								<li><a href="#"><img src="assets/img/Ratatouille-button-facebook.png"></a><a href="#"><img src="assets/img/Ratatouille-button-twitter.png"></a><a href="#"><img src="assets/img/Ratatouille-button-instagram.png"></a></li>
 							</ul>
 						</div>
 					</div>
