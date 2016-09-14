@@ -205,13 +205,32 @@ section .btn:hover{
 	margin-top: 60px;
 }
 
+#section_introconcept h1{
+	margin-bottom: 10px;
+}
+
 #section_introconcept p{
 	padding-top:20px;
+	margin-bottom: 60px;
+}
+
+#section_introconcept img{
+	margin:auto;
+	margin-bottom: 30px;
+	display:block;
+}
+
+#section_introconcept aside{
+	margin-top:40px;
 }
 
 #section_conceptunique{
 	padding-top:60px;
 	padding-bottom:60px;
+}
+
+#section_conceptunique p{
+	margin-bottom: 20px;
 }
 
 #section_savoirfaire{
