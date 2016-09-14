@@ -12,6 +12,26 @@ body>.container-fluid{
 	padding: 0;
 }
 
+
+h1{
+	font-family: 'Baloo Paaji', cursive;
+	font-size: 55px;
+}
+
+h2{
+	font-family: 'Baloo Paaji', cursive;
+	font-size: 38px;
+}
+
+p{
+	font-family: 'Lora', serif;
+	font-size: 17px;
+}
+
+
+
+
+
 /*
 
 	NAVBARS
@@ -219,6 +239,38 @@ section .btn:hover{
 	transform: translateX(-50%);
 }
 
+#section_introconcept{
+	margin-top: 60px;
+}
+
+#section_introconcept p{
+	padding-top:20px;
+}
+
+#section_conceptunique{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+#section_savoirfaire{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+#section_engagement{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+#section_boutonsconcept{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+#section_boutonsconcept .img-responsive{
+	padding-bottom:20px;
+}
+
 /*
 
 	SECTION FRANCHISE
@@ -255,3 +307,10 @@ footer a:hover{
 footer img{
 	width: 20px;
 }
+
+footer p{
+	padding-top: 10px;
+	padding-top: 20px;
+	font-size: 11px;
+}
+

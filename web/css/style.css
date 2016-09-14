@@ -1,3 +1,27 @@
+body>.container-fluid{
+	padding: 0;
+}
+
+
+h1{
+	font-family: 'Baloo Paaji', cursive;
+	font-size: 55px;
+}
+
+h2{
+	font-family: 'Baloo Paaji', cursive;
+	font-size: 38px;
+}
+
+p{
+	font-family: 'Lora', serif;
+	font-size: 17px;
+}
+
+
+
+
+
 /*
 
 	NAVBARS
@@ -16,6 +40,28 @@
 
 #social-navbar{
 	margin-bottom: 0;
+	background: black;
+	color: white;
+}
+
+#social-navbar a{
+	color: rgba(255, 255, 255, 0.8);
+}
+
+#social-navbar a:hover{
+	color: rgba(255, 255, 255, 1);
+}
+
+#social-navbar .navbar-nav>li:first-child{
+	padding-top: 5px;
+}
+
+#social-navbar .navbar-nav>li:last-child>a{
+	padding-right: 0;
+}
+
+#social-navbar img{
+	height: 30px;
 }
 
 #main-nav{
@@ -26,12 +72,13 @@
 }
 
 #main-nav img{
-	height: 40px;
+	height: 50px;
 	margin-top: 5px;
 }
 
 .navbar-default .navbar-toggle{
 	border-radius: 0;
+	margin-right: 0;
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
@@ -50,33 +97,43 @@
 	position: relative;
 }
 
-/* 
+#main-nav-collapse{
+	padding: 5px 0;
+}
 
-	HEADER
+/*
+
+	SECTION
 
 */
 
-.page-header{
+#section_aboutus{
 	background: url('../img/food.jpg');
 	background-position: center;
 	background-size: cover;
 	border-bottom: 1px solid black;
 	margin-bottom: 0;
 	margin-top: 0;
-	min-height: 300px;
+	height: 100vh;
 	position: relative;
 }
 
-.page-header h1{
+#section_aboutus h1{
 	color: #fff;
 	font-weight: bold;
 	left: 15%;
 	margin-top: 0;
 	position: absolute;
+	text-shadow: 2px 2px black;
 	top: 30%;
 }
 
-.page-header .btn{
+#section_aboutus h1 small{
+	color: black;
+	text-shadow: 2px 2px white;
+}
+
+#section_aboutus .btn{
 	background-color: rgba(255, 0, 0, 0.8);
 	border: none;
 	border-radius: 0;
@@ -88,17 +145,11 @@
 	transform: translateX(-50%);
 }
 
-.page-header .btn:hover{
+#section_aboutus .btn:hover{
 	background-color: #fff;
 	border: 1px solid rgba(255, 0, 0, 0.8);
 	color: rgba(255, 0, 0, 0.8);
 }
-
-/*
-
-	SECTION
-
-*/
 
 section{
 	min-height: 300px;
@@ -110,6 +161,110 @@ section h2{
 	text-align: center;
 }
 
+section .btn{
+	background-color: rgba(255, 0, 0, 0.8);
+	border: 1px solid white;
+	border-radius: 0;
+	color: #fff;
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+
+section .btn:hover{
+	background-color: white;
+	border: 1px solid rgba(255, 0, 0, 0.8);
+	color: rgba(255, 0, 0, 0.8);
+}
+
 #section_events ul li:first-child h3{
 	margin-top: 0;
+}
+
+#section_franchise{
+	background: url('../img/food.jpg');
+	background-position: center;
+	background-size: cover;
+	position: relative;
+}
+
+#section_franchise h2{
+	color: white;
+	margin-top: 0;
+	padding-top: 20px;
+}
+
+#section_franchise .btn{
+	bottom: 20px;
+	left: 50%;
+	margin-bottom: 0;
+	position: absolute;
+	transform: translateX(-50%);
+}
+
+#section_introconcept{
+	margin-top: 60px;
+}
+
+#section_introconcept p{
+	padding-top:20px;
+}
+
+
+#section_conceptunique{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+#section_savoirfaire{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+#section_engagement{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+#section_boutonsconcept{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+#section_boutonsconcept .img-responsive{
+	padding-bottom:20px;
+}
+
+/*
+
+	FOOTER
+
+*/
+
+footer{
+	background: black;
+	color: white;
+	padding-top: 20px;
+	text-align: center;
+}
+
+footer a{
+	color: white;
+	font-weight: bold;
+	padding: 0 5px;
+}
+
+footer a:hover{
+	color: rgba(255, 0, 0, 0.9);
+	cursor: pointer;
+	text-decoration: none;
+}
+
+footer img{
+	width: 20px;
+}
+
+footer p{
+	padding-top: 10px;
+	padding-top: 20px;
+	font-size: 11px;
 }
