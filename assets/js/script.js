@@ -4,4 +4,5 @@ $(document).ready(function(){
 	$section_height = $(window).height()-$mainnav_height-$socialnav_height;
 	$("#section_events, #section_franchise, #section_aboutus").css('min-height', $section_height);
 	$("#section_events .container").css('min-height', $section_height);
+
 });

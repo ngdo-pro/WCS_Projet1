@@ -51,8 +51,8 @@
 				<!-- partie cachée dans le menu hamburger en mode mobile, visible sur les autres support-->
 				<div class="collapse navbar-collapse" id="main-nav-collapse">
 					<ul class="nav navbar-nav">
-						<li class="active">
-							<a href="concept-ratatouille.php">Le concept Ratatouille</a>
+						<li>
+							<a id="test" href="concept-ratatouille.php">Le concept Ratatouille</a>
 						</li>
 						<li>
 							<a href="devenir-franchise-ratatouille.php">Devenir franchisé</a>
