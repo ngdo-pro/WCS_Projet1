@@ -335,17 +335,17 @@ section .btn:hover{
 	margin-bottom: 80px;
 }
 
-#ratatouille_laloupe{
-	background: linear-gradient(to bottom, transparent, #f0f0f0);
-	padding: 60px;
+#current_restaurants h2{
+	font-size: 25px;
 }
 
+#current_restaurants img{
+	margin-top: 25px;
+}
 
-
-
-
-
-
+#titreh2{
+	margin-top: 50px;
+}
 
 
 
