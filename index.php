@@ -4,12 +4,12 @@
 ?>
 <!-- Header de la page, avec un visuel et le slogan--> 
 <section id="section_aboutus">
-	<h1>Les restaurants Ratatouille <small>Entrez dans le monde de la cuisine du soleil !</small></h1>
+	<h1>Les restaurants Ratatouille <br /><small>Entrez dans le monde de la cuisine du soleil !</small></h1>
 	<button class="btn btn-default">Qui sommes-nous ?</button>
 </section>
 <section id="section_events">
 	<div class="container-fluid">
-		<h2>Les événements et actualités</h2>
+		<h2 class="text-center">Les événements et actualités</h2>
 		<div class="container">
 			<div class="row">
 				<div class="col-md-4">
@@ -46,7 +46,7 @@
 	</div>
 </section>
 <section id="section_franchise">
-	<h2>Rejoignez l'aventure Ratatouille !</h2>
+	<h2 class="text-center">Rejoignez l'aventure Ratatouille !</h2>
 	<button class="btn btn-default">Devenez franchisé</button>
 </section>
 

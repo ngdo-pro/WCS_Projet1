@@ -28,10 +28,6 @@ p{
 	font-size: 17px;
 }
 
-
-
-
-
 /*
 
 	NAVBARS
@@ -55,11 +51,11 @@ p{
 }
 
 #social-navbar a{
-	color: #a30a02;
+	color: #fff;
 }
 
 #social-navbar a:hover{
-	color: rgba(255, 255, 255, 1);
+	color: #f00;
 }
 
 #social-navbar .navbar-nav>li:first-child{
@@ -83,6 +79,7 @@ p{
 
 #main-nav img{
 	height: 50px;
+	margin-left: 20px;
 	margin-top: 5px;
 }
 
@@ -168,7 +165,6 @@ section{
 
 section h2{
 	margin-bottom: 30px;
-	text-align: center;
 }
 
 section .btn{
@@ -277,7 +273,14 @@ section .btn:hover{
 
 */
 
+#section_possibilities_franchise, #section_advantages_franchise{
+	margin-top: 60px;
+}
 
+#section_possibilities_franchise .franchise-checklist{
+	margin-top: 20px;
+	margin-bottom: 60px;
+}
 
 /*
 
