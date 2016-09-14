@@ -1,3 +1,13 @@
+/*
+
+	COLORS
+
+	red : #a30a02;
+
+*/
+
+
+
 body>.container-fluid{
 	padding: 0;
 }
@@ -17,10 +27,6 @@ p{
 	font-family: 'Lora', serif;
 	font-size: 17px;
 }
-
-
-
-
 
 /*
 
@@ -45,11 +51,11 @@ p{
 }
 
 #social-navbar a{
-	color: rgba(255, 255, 255, 0.8);
+	color: #fff;
 }
 
 #social-navbar a:hover{
-	color: rgba(255, 255, 255, 1);
+	color: #f00;
 }
 
 #social-navbar .navbar-nav>li:first-child{
@@ -73,6 +79,7 @@ p{
 
 #main-nav img{
 	height: 50px;
+	margin-left: 20px;
 	margin-top: 5px;
 }
 
@@ -82,14 +89,14 @@ p{
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
-	background-color: rgba(255, 0, 0, 0.8);
+	background-color: #a30a02;
 }
 
 .navbar-default .navbar-toggle:hover .icon-bar, .navbar-default .navbar-toggle:focus .icon-bar{
 	background-color: #000;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
-	background-color: rgba(255, 0, 0, 0.8);
+	background-color: #a30a02;
 	color: #fff;
 }
 .nav>li{
@@ -103,7 +110,7 @@ p{
 
 /*
 
-	SECTION
+	SECTION HOMEPAGE
 
 */
 
@@ -134,7 +141,7 @@ p{
 }
 
 #section_aboutus .btn{
-	background-color: rgba(255, 0, 0, 0.8);
+	background-color: #a30a02;
 	border: none;
 	border-radius: 0;
 	bottom: 10%;
@@ -147,8 +154,8 @@ p{
 
 #section_aboutus .btn:hover{
 	background-color: #fff;
-	border: 1px solid rgba(255, 0, 0, 0.8);
-	color: rgba(255, 0, 0, 0.8);
+	border: 1px solid #a30a02;
+	color: #a30a02;
 }
 
 section{
@@ -158,11 +165,10 @@ section{
 
 section h2{
 	margin-bottom: 30px;
-	text-align: center;
 }
 
 section .btn{
-	background-color: rgba(255, 0, 0, 0.8);
+	background-color: #a30a02;
 	border: 1px solid white;
 	border-radius: 0;
 	color: #fff;
@@ -172,12 +178,44 @@ section .btn{
 
 section .btn:hover{
 	background-color: white;
-	border: 1px solid rgba(255, 0, 0, 0.8);
-	color: rgba(255, 0, 0, 0.8);
+	border: 1px solid #a30a02;
+	color: #a30a02;
+}
+
+.last_section{
+    border-bottom: none;
 }
 
 #section_events ul li:first-child h3{
 	margin-top: 0;
+}
+
+#section_events img{
+	display: block;
+	margin: auto;
+}
+
+#section_events h3{
+	text-align: center;
+}
+
+#section_events p{
+	padding: 20px;
+	text-align: justify;
+}
+
+#section_events .card{
+	background: linear-gradient(to bottom, transparent, #f0f0f0);
+	margin-bottom: 20px;
+	padding: 20px;
+}
+
+#section_events .card div{
+	text-align: center;
+}
+
+#section_events .card button{
+	bottom: 5px;
 }
 
 #section_franchise{
@@ -251,6 +289,30 @@ section .btn:hover{
 #section_boutonsconcept .img-responsive{
 	padding-bottom:20px;
 }
+
+/*
+
+	SECTION FRANCHISE
+
+*/
+
+#section_possibilities_franchise, #section_advantages_franchise, #section_form_franchise, #section_record_franchise{
+	margin-top: 60px;
+}
+
+#section_possibilities_franchise .franchise-checklist{
+	margin-top: 20px;
+	margin-bottom: 60px;
+}
+
+#section_advantages_franchise ul, #section_advantages_franchise img{
+    margin-bottom: 60px;
+}
+
+#section_form_franchise .form-button{
+    text-align: center;
+}
+
 
 /*
 
