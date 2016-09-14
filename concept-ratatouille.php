@@ -14,7 +14,7 @@
 			<div class="row"> 	<!-- H1 + LOGO -->
 				<div class="col-sm-12 col-md-6">
 					<h1 class="text-left">LE CONCEPT RATATOUILLE </h1>
-					<p class="text-left">Les restaurants Ratatouille sont des lieux de rencontres qui respirent la cuisine provencale et la douceur de vivre du sud de la france et où la ratatouille est declinée sous toutes ses formes.</p>	
+					<p class="text-left">Les restaurants Ratatouille sont des lieux de rencontres qui respirent la cuisine provencale et la douceur de vivre du sud de la france et où la ratatouille est declinée sous toutes ses formes. </p>	
 				</div>
 				
 				<aside>
