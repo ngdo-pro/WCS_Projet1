@@ -3,22 +3,26 @@
 	include('layout/header.php');
 
 ?>
-<section id="section_become_franchised">
-	<h1 class="text-center">Devenez franchisé Ratatouille</h1>
-</section>
+<h1 class="text-center">Devenez franchisé Ratatouille</h1>
 <section id="section_possibilities_franchise">
 	<h2>Des possibilités de développement infinies</h2>
 	<div class="container-fluid">
 		<div class="row">
-			<div class="col-md-10 col-md-offset-1">
-				<p>Créés en 2014, les restaurants Ratatouille se sont ouverts à la franchise en 2016, après avoir pris le temps de consolider la marque et son concept. Immédiatement reconnaissable grâce à un positionnement fort et à une approche unique - licence Disney et plat phare : la Ratatouille - Les restaurants Ratatouille se développent en France. 4 nouvelles ouvertures de restaurant sont prévues pour fin d'année 2016.</p>
+			<div class="col-md-8 col-md-offset-2">
+				<p>Créés en 2014, les restaurants Ratatouille se sont ouverts à la franchise en 2016, après avoir pris
+                    le temps de consolider la marque et son concept. Immédiatement reconnaissable grâce à un
+                    positionnement fort et à une approche unique - licence Disney et plat phare : la Ratatouille -
+                    Les restaurants Ratatouille se développent en France. 4 nouvelles ouvertures de restaurant sont
+                    prévues pour fin d'année 2016.</p>
 			</div>
-			<div class="col-md-10 col-md-offset-1">
+			<div class="col-md-3 col-md-offset-3">
 				<ul>
 					<li>Vous êtes entrepreneur</li>
 					<li>Vous avez envie de relever un challenge</li>
-					<li>Vous souhaitez vous lancer dans votre propre aventure, être autonome à la tête de votre entreprise et pouvoir vous appuyer sur une structure solide</li>
-					<li>Vous avez une bonne connaissance de votre région, du bassin d'activité dans lequel vous voulez vous implanter</li>
+					<li>Vous souhaitez vous lancer dans votre propre aventure, être autonome à la tête de votre
+                        entreprise et pouvoir vous appuyer sur une structure solide</li>
+					<li>Vous avez une bonne connaissance de votre région, du bassin d'activité dans lequel vous voulez
+                        vous implanter</li>
 				</ul>
 			</div>
 		</div>

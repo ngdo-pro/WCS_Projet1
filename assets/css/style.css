@@ -1,3 +1,13 @@
+/*
+
+	COLORS
+
+	red : #a30a02;
+
+*/
+
+
+
 body>.container-fluid{
 	padding: 0;
 }
@@ -25,7 +35,7 @@ body>.container-fluid{
 }
 
 #social-navbar a{
-	color: rgba(255, 255, 255, 0.8);
+	color: #a30a02;
 }
 
 #social-navbar a:hover{
@@ -62,14 +72,14 @@ body>.container-fluid{
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus{
-	background-color: rgba(255, 0, 0, 0.8);
+	background-color: #a30a02;
 }
 
 .navbar-default .navbar-toggle:hover .icon-bar, .navbar-default .navbar-toggle:focus .icon-bar{
 	background-color: #000;
 }
 .navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover{
-	background-color: rgba(255, 0, 0, 0.8);
+	background-color: #a30a02;
 	color: #fff;
 }
 .nav>li{
@@ -114,7 +124,7 @@ body>.container-fluid{
 }
 
 #section_aboutus .btn{
-	background-color: rgba(255, 0, 0, 0.8);
+	background-color: #a30a02;
 	border: none;
 	border-radius: 0;
 	bottom: 10%;
@@ -127,8 +137,8 @@ body>.container-fluid{
 
 #section_aboutus .btn:hover{
 	background-color: #fff;
-	border: 1px solid rgba(255, 0, 0, 0.8);
-	color: rgba(255, 0, 0, 0.8);
+	border: 1px solid #a30a02;
+	color: #a30a02;
 }
 
 section{
@@ -142,7 +152,7 @@ section h2{
 }
 
 section .btn{
-	background-color: rgba(255, 0, 0, 0.8);
+	background-color: #a30a02;
 	border: 1px solid white;
 	border-radius: 0;
 	color: #fff;
@@ -152,8 +162,8 @@ section .btn{
 
 section .btn:hover{
 	background-color: white;
-	border: 1px solid rgba(255, 0, 0, 0.8);
-	color: rgba(255, 0, 0, 0.8);
+	border: 1px solid #a30a02;
+	color: #a30a02;
 }
 
 #section_events ul li:first-child h3{
@@ -215,11 +225,7 @@ section .btn:hover{
 
 */
 
-#section_become_franchised{
-	background: url('../img/food.jpg');
-	background-position: center;
-	background-size: cover;
-}
+
 
 /*
 
