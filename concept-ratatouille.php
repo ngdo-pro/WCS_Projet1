@@ -8,10 +8,13 @@
 <body>
 	<div class="container"> 
 		<section id="section_introconcept">		
-		<div class="container-fluid">
+		<div class="container">
 			<div class="row"> 	<!-- H1 et texte d'intro -->
-				<div class="col-md-6">
+				<div class="col-sm-12 col-md-6">
 					<h1 class="text-left">LE CONCEPT RATATOUILLE </h1>
+				</div>
+				<div class="col-sm-12 col-md-6">
+					<img src="assets/img/logo-ratatouille-page-concept-250x250.png" alt="Logo Ratatouille" width="140" height="140">
 				</div>
 			</div>
 			<div class="row">
