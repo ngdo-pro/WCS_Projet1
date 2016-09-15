@@ -1,5 +1,5 @@
 <?php
-    $titre = "Actualités";
+    $titre = "Nos actualités";
     include ('layout/header.php');
 ?>
 
@@ -50,7 +50,7 @@
                             <img src="assets/img/ratatouille-Photo-homepage3.jpg" class="img-responsive">
                         </div>
                         <div class="col-md-10">
-                            <h3>Nouvelle carte Lyon 2016</h3>
+                            <h3>Ouverture à Lyon </h3>
                             <p class="text-justify">Le restaurant Ratatouille de Lyon a ouvert en septembre dernier. Après avoir dévoilé ses fabuleux locaux originalement situés dans une ancienne prison complètement réhabilitée, l’équipe révèle enfin sa carte. Le chef vous propose des inspirations du Moyen-Orient, avec des subtils mélanges. Laissez-vous tenter par la ratatouille falafels.</p>
                             <div class="news_card_button">
                                 <button class="btn btn-default">Lire la suite</button>

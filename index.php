@@ -31,7 +31,7 @@
 				<div class="col-md-4">
 					<div class="card">
 						<img src="assets/img/ratatouille-Photo-homepage3.jpg" alt="actualite ratatouille" class="img-circle" width="140px" height="140px"/>
-						<h3>Nouvelle carte Lyon</h3>
+						<h3>Ouverture à Lyon</h3>
 						<p>Le restaurant Ratatouille de Lyon a ouvert ses portes en septembre dernier. Après avoir dévoilé ses fabuleux locaux ...</p>
 						<div><button class="btn btn-default">En savoir plus</button></div>
 					</div>
@@ -40,6 +40,7 @@
 			<div class="row button_news">	
 			<div class="col-md-4 col-md-offset-4 text-center">
 				<button class="btn btn-default">Toutes les actualités</button>
+			</div>
 			</div>
 		</div>
 		</div>

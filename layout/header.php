@@ -12,6 +12,8 @@
 		<link rel="stylesheet" type="text/css" href="assets/css/style.css">	
 		<link href="https://fonts.googleapis.com/css?family=Lora" rel="stylesheet">	
 		<link href="https://fonts.googleapis.com/css?family=Baloo+Paaji" rel="stylesheet">
+		<link rel="icon" type="image/png" href="assets/img/favicon-16x16.png"/>
+		<link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico" />
 	</head>
 	<body>
 		<!-- Conteneur de la page pour permettre l'utilisation de bootstrap-->
