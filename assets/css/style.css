@@ -239,6 +239,10 @@ section .btn:hover{
 	transform: translateX(-50%);
 }
 
+.button_news{
+	margin-top: 40px;
+}
+
 /*
 
 	SECTION CONCEPT RATATOUILLE
@@ -386,6 +390,19 @@ PAGE RESTAURANT LA LOUPE
 #section_horaires_acces{
 	padding-top:60px;
 	padding-bottom:60px;
+}
+
+/*
+
+PAGE ACTUALITES
+
+*/
+#section_news_list h1{
+	padding-bottom: 40px;
+}
+
+#section_news_list img{
+	padding-top: 20px;
 }
 
 /*

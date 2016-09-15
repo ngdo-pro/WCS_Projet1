@@ -37,12 +37,13 @@
 					</div>
 				</div>
 			</div>
-		</div>
-		<div class="row">	
+			<div class="row button_news">	
 			<div class="col-md-4 col-md-offset-4 text-center">
 				<button class="btn btn-default">Toutes les actualités</button>
 			</div>
 		</div>
+		</div>
+		
 	</div>
 </section>
 <section id="section_franchise">
