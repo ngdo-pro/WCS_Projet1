@@ -348,8 +348,48 @@ section .btn:hover{
 }
 
 
+/*
 
+PAGE RESTAURANT LA LOUPE
 
+*/
+
+#section_restaurantlaloupe{
+	background: url('../img/page-type-restaurant-visuel1.jpg');
+	background-position: center;
+	background-size: cover;
+	margin-bottom: 0;
+	margin-top: 0;
+	height: 100vh;
+	position: relative;
+}
+
+#section_restaurantlaloupe h1{
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 90px: 
+	left: 15%;
+	margin-top: 0;
+	position: relative;
+	top: 35%;
+	text-align: center;
+	line-height: 1.500;
+}
+
+#section_chefloupe{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+#section_lacarte{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+#section_horaires_acces{
+	padding-top:60px;
+	padding-bottom:60px;
+}
 
 
 
