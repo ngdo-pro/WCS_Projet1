@@ -335,14 +335,22 @@ section .btn:hover{
 	font-size: 25px;
 }
 
-#current_restaurants img{
-	margin-top: 25px;
+.card_restaurants{
+    background: #f0f0f0;
+    border: 3px double #1c1c1c;
+    margin: 60px auto;
+    padding: 100px 20px 0px 20px;
+    position: relative;
 }
 
-#titreh2{
-	margin-top: 50px;
-}
 
+
+.card_restaurants img{
+    left: 50%;
+    position: absolute;
+    top: 0;
+    transform: translateX(-50%) translateY(-50%);
+}
 
 /*
 
@@ -351,8 +359,7 @@ PAGE RESTAURANT LA LOUPE
 */
 
 #section_restaurantlaloupe{
-	background: url('../img/page-type-restaurant-visuel1.jpg');
-	background-position: center;
+	background: url('../img/page-type-restaurant-visuel1.jpg') center;
 	background-size: cover;
 	margin-bottom: 0;
 	margin-top: 0;
