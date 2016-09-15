@@ -400,7 +400,15 @@ PAGE RESTAURANT LA LOUPE
 
 #section_mentions_legales{
     border-bottom: none;
+    padding-top:60px;
+	padding-bottom:60px;
 }
+
+#section_mentions_legales h1{
+	padding-bottom:20px;
+}
+
+
 
 #section_news_list .news_card{
     margin-bottom: 60px;
