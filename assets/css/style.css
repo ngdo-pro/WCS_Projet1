@@ -115,7 +115,7 @@ p{
 */
 
 #section_aboutus{
-	background: url('../img/food.jpg');
+	background: url('../img/ratatouille-hp-visuel-top.jpg');
 	background-position: center;
 	background-size: cover;
 	border-bottom: 1px solid black;
@@ -128,16 +128,12 @@ p{
 #section_aboutus h1{
 	color: #fff;
 	font-weight: bold;
-	left: 15%;
-	margin-top: 0;
-	position: absolute;
-	text-shadow: 2px 2px black;
-	top: 30%;
+	padding-top: 200px;
 }
 
 #section_aboutus h1 small{
-	color: black;
-	text-shadow: 2px 2px white;
+	color: #fff;
+	font-size: 30px;
 }
 
 #section_aboutus .btn{

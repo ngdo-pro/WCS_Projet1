@@ -4,10 +4,10 @@
 ?>
 <!-- Header de la page, avec un visuel et le slogan--> 
 <section id="section_aboutus">
-	<h1>Les restaurants Ratatouille <br /><small>Entrez dans le monde de la cuisine du soleil !</small></h1>
+	<h1 class="text-center">LES RESTAURANTS RATATOUILLE <br /><small>Redécouvrez les saveurs de la cuisine du soleil !</small></h1>
 	<button class="btn btn-default">Qui sommes-nous ?</button>
 </section>
-<section id="section_events">
+<section id="section_events" class="first_section">
 	<div class="container-fluid">
 		<h2 class="text-center">Les événements et actualités</h2>
 		<div class="container">
