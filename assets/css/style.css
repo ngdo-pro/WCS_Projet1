@@ -115,7 +115,7 @@ p{
 */
 
 #section_aboutus{
-	background: url('../img/ratatouille-hp-visuel-top.jpg') center;
+    background: url('../img/ratatouille-HP-visuel-top.jpg') center;
 	background-size: cover;
 	border-bottom: 1px solid black;
 	margin-bottom: 0;
@@ -345,7 +345,7 @@ section .btn:hover{
 
 .card_restaurants{
     background: #f0f0f0;
-    border: 3px double #1c1c1c;
+    border: 1px solid #1c1c1c;
     margin: 60px auto;
     padding: 100px 20px 0px 20px;
     position: relative;
