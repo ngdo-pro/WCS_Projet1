@@ -239,6 +239,12 @@ section .btn:hover{
 	transform: translateX(-50%);
 }
 
+/*
+
+	SECTION CONCEPT RATATOUILLE
+
+*/
+
 #section_introconcept{
 	margin-top: 60px;
 }
@@ -290,6 +296,7 @@ section .btn:hover{
 	padding-bottom:20px;
 }
 
+
 /*
 
 	SECTION FRANCHISE
@@ -312,6 +319,96 @@ section .btn:hover{
 #section_form_franchise .form-button{
     text-align: center;
 }
+
+
+/*
+
+	PAGE NOS RESTAURANTS
+
+*/
+
+#top_page_restaurants{
+	margin-top: 60px;
+}
+
+#top_page_restaurants p{
+	margin-top: 15px;
+	margin-bottom: 80px;
+}
+
+#current_restaurants h2{
+	font-size: 25px;
+}
+
+#current_restaurants img{
+	margin-top: 25px;
+}
+
+#titreh2{
+	margin-top: 50px;
+}
+
+
+/*
+
+PAGE RESTAURANT LA LOUPE
+
+*/
+
+#section_restaurantlaloupe{
+	background: url('../img/page-type-restaurant-visuel1.jpg');
+	background-position: center;
+	background-size: cover;
+	margin-bottom: 0;
+	margin-top: 0;
+	height: 100vh;
+	position: relative;
+}
+
+#section_restaurantlaloupe h1{
+	color: #ffffff;
+	font-weight: bold;
+	font-size: 90px: 
+	left: 15%;
+	margin-top: 0;
+	position: relative;
+	top: 35%;
+	text-align: center;
+	line-height: 1.500;
+}
+
+#section_chefloupe{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+#section_lacarte{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+#section_horaires_acces{
+	padding-top:60px;
+	padding-bottom:60px;
+}
+
+/*
+
+	MENTIONS LEGALES
+
+*/
+
+#section_mentions_legales{
+    border-bottom: none;
+    padding-top:60px;
+	padding-bottom:60px;
+}
+
+#section_mentions_legales h1{
+	padding-bottom:20px;
+}
+
+
 
 #section_news_list .news_card{
     margin-bottom: 60px;

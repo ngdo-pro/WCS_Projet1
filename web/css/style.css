@@ -225,6 +225,10 @@ section .btn:hover{
 	padding-bottom:60px;
 }
 
+#sectiontoprestaurants{
+	margin-top: 200px;
+}
+
 #section_boutonsconcept{
 	padding-top:60px;
 	padding-bottom:60px;
@@ -234,7 +238,19 @@ section .btn:hover{
 	padding-bottom:20px;
 }
 
+#coming-restaurants{
+	padding-botton:40px;
+}
 
+#section_boutonsconcept{
+	padding-top: 20px;
+	padding-top: 30px;
+}
+
+.card_restaurants{
+	position:relative;
+	background-color: #f0f0f0;
+}
 
 /*
 
