@@ -110,6 +110,22 @@ p{
 
 /*
 
+    SCROLL_TO_TOP
+
+*/
+
+#scroll-to-top{
+    border-radius: 100%;
+    bottom: 5vh;
+    cursor: pointer;
+    height: 50px;
+    position: fixed;
+    right: 5vh;
+    width: 50px;
+}
+
+/*
+
 	SECTION HOMEPAGE
 
 */

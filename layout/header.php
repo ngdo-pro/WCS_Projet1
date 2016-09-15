@@ -69,3 +69,4 @@
 				</div>
 			</nav>
 			</div>
+			<div id="scroll-to-top"><span class="glyphicon glyphicon-arrow-up"></span></div>
