@@ -295,6 +295,7 @@ section .btn:hover{
 #section_boutonsconcept{
 	padding-top:60px;
 	padding-bottom:60px;
+	border-bottom: none;
 }
 
 #section_boutonsconcept .img-responsive{
