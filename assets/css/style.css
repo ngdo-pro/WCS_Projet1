@@ -364,8 +364,16 @@ section .btn:hover{
 	margin-bottom: 80px;
 }
 
-#current_restaurants h2{
+#current_restaurants h2, #next_restaurants .card_restaurants h2{
 	font-size: 25px;
+}
+
+#next_restaurants_title{
+    padding: 30px 0;
+}
+
+#next_restaurants .card_restaurants{
+    opacity: 0.7;
 }
 
 .card_restaurants{

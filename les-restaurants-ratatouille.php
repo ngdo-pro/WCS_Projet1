@@ -59,7 +59,7 @@
 						</div>
 						<div class="col-sm-12 col-md-4">
 							<div id="ratatouille_bordeaux" class="card_restaurants">
-								<img class="img-circle" src="assets/img/Ratatouille-restaurant-orleans.jpg" alt="Restaurant ratatouille ville de Orleans" width="180" height="180">
+								<img class="img-circle" src="assets/img/Ratatouille-restaurant-Bordeaux.jpg" alt="Restaurant ratatouille ville de Bordeaux" width="180" height="180">
 								<h2 class="text-center">Bordeaux</h2>
 								<p class="p_adresse_restaurant">15 Place Canteloup<br/>33800 Bordeaux<br/>0475096787</p>
 								<p class="p_hours">Ouvert de 19h à 22h <br/><br/>Fermé les mercredi, jeudi et dimanche </p>
@@ -94,30 +94,30 @@
 		<section id="next_restaurants">
 			<div class="container">
 				<div class="container">
-					<div class="row">
+					<div class="row" id="next_restaurants_title">
 						<div class="col-sm-12 col-md-6">
-							<h2 class="text-center">Nos prochaines ouvertures de restaurants Ratatouille</h2>
+							<h2 class="text-left">Nos prochaines ouvertures de restaurants Ratatouille</h2>
 						</div>
 					</div>
 				</div>
 				<div class="container">		
 					<div class="row">
 						<div class="col-md-4">
-							<div id="ratatouille_paris">
+							<div id="ratatouille_paris" class="card_restaurants">
 								<img class="img-circle" src="assets/img/Ratatouille-restaurant-paris.jpg" alt="Restaurant ratatouille ville de Paris" width="180" height="180">
-								<p>Paris</p>
+								<h2 class="text-center">Paris</h2>
 							</div>
 						</div>
 						<div class="col-md-4">
-							<div id="ratatouille_Marseille">
+							<div id="ratatouille_Marseille" class="card_restaurants">
 								<img class="img-circle" src="assets/img/Ratatouille-restaurant-Marseille.jpg" alt="Restaurant ratatouille ville de Toulouse" width="180" height="180">
-								<p>Marseille</p>
+								<h2 class="text-center">Marseille</h2>
 							</div>
 						</div>
 						<div class="col-md-4">
-							<div id="ratatouille_paris">
+							<div id="ratatouille_lille" class="card_restaurants">
 								<img class="img-circle" src="assets/img/Ratatouille-restaurant-Lille.jpg" alt="Restaurant ratatouille ville de Lille" width="180" height="180">
-								<p>Lille</p>
+								<h2 class="text-center">Lille</h2>
 							</div>
 						</div>
 					</div>
