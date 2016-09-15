@@ -131,7 +131,7 @@ p{
 */
 
 #section_aboutus{
-    background: url('../img/ratatouille-HP-visuel-top.jpg') center;
+	background: url('../img/ratatouille-HP-visuel-top.jpg') center;
 	background-size: cover;
 	border-bottom: 1px solid black;
 	margin-bottom: 0;
@@ -180,7 +180,7 @@ section h2{
 
 section .btn{
 	background-color: #a30a02;
-	border: 1px solid white;
+	border: 0px solid white;
 	border-radius: 0;
 	color: #fff;
 	font-weight: bold;

@@ -1,6 +1,6 @@
 <!-- HEADER-->
 <?php
-	$titre = "Le concept";
+	$titre = "Mentions légales";
 	include ('layout/header.php');
 ?>
 <body>
