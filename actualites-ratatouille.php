@@ -3,9 +3,13 @@
     include ('layout/header.php');
 ?>
 
-<section id="section_news_list">
+<section id="section_news_list" class="first_section">
     <div class="container">
-        <h1>Les Actualités Ratatouille</h1>
+        <div class="row">
+            <div class="col-md-12">
+                <h1>LES ACTUALITÉS RATATOUILLE</h1>
+            </div>
+        </div>
         <div class="row">
             <div class="col-md-12">
                 <div class="news_card">

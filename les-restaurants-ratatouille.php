@@ -9,7 +9,7 @@
 <body>
 	<div class="container"> 
 	<div class="container">
-		<section id="current_restaurants">	
+		<section id="current_restaurants"  class="first_section">
 			<div class="container">
 				<div class="row"> 	<!-- H1 + LOGO -->
 					<div id="top_page_restaurants">

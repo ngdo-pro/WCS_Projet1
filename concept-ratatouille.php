@@ -9,7 +9,7 @@
 	<div class="container"> 
 
 <!-- SECTION INTRO_CONCEPT -->
-		<section id="section_introconcept">		
+		<section id="section_introconcept" class="first_section">
 		<div class="container">
 			<div class="row"> 	<!-- H1 + LOGO -->
 				<div class="col-sm-12 col-md-6">
@@ -27,7 +27,7 @@
 		</section>
 
 <!-- SECTION 3 PARTIES AVEC VISUELS -->
-		<section id="section_conceptunique">	
+		<section id="section_conceptunique">
 			<div class="row"> 	<!-- Part 1 Un concept unique -->
 				<div class="col-sm-12 col-md-6 col-md-push-6">
 					<div class="blocs_de_textes">

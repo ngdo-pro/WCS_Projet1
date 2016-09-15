@@ -7,7 +7,7 @@
 	<div class="container">
 
 <!-- Haut de page -->
-		<section id="section_mentions_legales">
+		<section id="section_mentions_legales" class="first_section">
 			<div class="container">
 				<div class="row">
 					<div class="col-xs-12">
