@@ -27,7 +27,7 @@
 								<h2 class="text-center">La Loupe</h2>
 								<p class="p_adresse_restaurant">18 Rue de la gare <br/>28240 La Loupe<br/>0475096787</p>
 								<p class="p_hours">Ouvert de 19h à 22h <br/><br/>Fermé les mercredi, jeudi et dimanche </p>
-								<div class="text-center"><button class="btn btn-default">Accès au site</button></div>
+								<div class="text-center button_page"><button class="btn btn-default"><a href="restaurant-ratatouille-la-loupe.php">Accès au site</a></button></div>
 							</div>
 						</div>
 						<div class="col-sm-12 col-md-4">
@@ -36,7 +36,7 @@
 								<h2 class="text-center">Chartres</h2>
 								<p class="p_adresse_restaurant">3 rue Charles Brune<br/>28110 Lucé<br/>0475096787</p>
 								<p class="p_hours">Ouvert de 19h à 22h <br/><br/>Fermé les mercredi, jeudi et dimanche </p>
-								<div class="text-center"><button class="btn btn-default">Accès au site</button></div>
+								<div class="text-center"><button class="btn btn-default"><a href="#">Accès au site</a></button></div>
 							</div>
 						</div>
 						<div class="col-sm-12 col-md-4">
@@ -45,7 +45,7 @@
 								<h2 class="text-center">Fontainebleau</h2>
 								<p class="p_adresse_restaurant">35 rue Saint Honoré<br/>77300 Fontainebleau<br/>0475096787</p>
 								<p class="p_hours">Ouvert de 19h à 22h <br/><br/>Fermé les mercredi, jeudi et dimanche </p>
-								<div class="text-center"><button class="btn btn-default">Accès au site</button></div>
+								<div class="text-center"><button class="btn btn-default"><a href="#">Accès au site</a></button></div>
 							</div>
 						</div>
 						<div class="col-sm-12 col-md-4">
@@ -54,7 +54,7 @@
 								<h2 class="text-center">Orléans</h2>
 								<p class="p_adresse_restaurant">1 Avenue du champ de Mars<br/>45100 Orléans<br/>0475096787</p>
 								<p class="p_hours">Ouvert de 19h à 22h <br/><br/>Fermé les mercredi, jeudi et dimanche </p>
-								<div class="text-center"><button class="btn btn-default">Accès au site</button></div>
+								<div class="text-center"><button class="btn btn-default"><a href="#">Accès au site</a></button></div>
 							</div>
 						</div>
 						<div class="col-sm-12 col-md-4">
@@ -63,7 +63,7 @@
 								<h2 class="text-center">Bordeaux</h2>
 								<p class="p_adresse_restaurant">15 Place Canteloup<br/>33800 Bordeaux<br/>0475096787</p>
 								<p class="p_hours">Ouvert de 19h à 22h <br/><br/>Fermé les mercredi, jeudi et dimanche </p>
-								<div class="text-center"><button class="btn btn-default">Accès au site</button></div>
+								<div class="text-center"><button class="btn btn-default"><a href="#">Accès au site</a></button></div>
 							</div>
 						</div>
 						<div class="col-sm-12 col-md-4">
@@ -72,7 +72,7 @@
 								<h2 class="text-center">Lyon</h2>
 								<p class="p_adresse_restaurant">17 rue Delandine<br/>69002 Lyon<br/>0475096787</p>
 								<p class="p_hours">Ouvert de 19h à 22h <br/><br/>Fermé les mercredi, jeudi et dimanche </p>
-								<div class="text-center"><button class="btn btn-default">Accès au site</button></div>
+								<div class="text-center"><button class="btn btn-default"><a href="#">Accès au site</a></button></div>
 							</div>
 						</div>
 						<div class="col-sm-12 col-md-4">
@@ -81,7 +81,7 @@
 								<h2 class="text-center">Toulouse</h2>
 								<p class="p_adresse_restaurant">1 place de la Bourse <br/>31000 Toulouse<br/>0475096787</p>
 								<p class="p_hours">Ouvert de 19h à 22h <br/><br/>Fermé les mercredi, jeudi et dimanche </p>
-								<div class="text-center"><button class="btn btn-default">Accès au site</button></div>
+								<div class="text-center"><button class="btn btn-default"><a href="#">Accès au site</button></div>
 							</div>
 						</div>
 					</div>

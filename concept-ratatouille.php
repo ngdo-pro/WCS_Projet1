@@ -76,17 +76,17 @@
 			<div class="row"> <!-- Découvrez nos restaurants-->
 				<div class="col-sm-12 col-md-4">
 					<center><img src="assets/img/ratatouille-hp-trouvez-un-restaurant.jpg" class="img-responsive"></center>
-					<center><button class="btn btn-default">Trouvez un restaurant</button></center>
+					<center><button class="btn btn-default"><a href="les-restaurants-ratatouille.php">Trouvez un restaurant</a></button></center>
 				</div>	
 					
 				<div class="col-sm-12 col-md-4"> <!-- Devenez franchisé-->
 					<center><img src="assets/img/ratatouille-hp-devenez-franchise.jpg" class="img-responsive"></center>
-					<center><button class="btn btn-default">Devenez franchisé</button></center>
+					<center><button class="btn btn-default"><a href="devenir-franchise-ratatouille.php">Devenez franchisé</a></button></center>
 				</div>	
 					
 				<div class="col-sm-12 col-md-4"> <!-- Rejoignez l'équipe-->
 					<center><img src="assets/img/ratatouille-hp-rejoignez-lequipe.jpg" class="img-responsive"></center>
-					<center><button class="btn btn-default">Rejoignez une équipe</button></center>
+					<center><button class="btn btn-default"><a href="#">Rejoignez une équipe</a></button></center>
 				</div>	
 			</div>
 		</section>

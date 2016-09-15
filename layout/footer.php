@@ -3,12 +3,12 @@
 					<div class="row">
 						<div class="col-xs-12 col-sm-4">
 							<ul class="list-unstyled">
-								<li><a href="contactez-nous.php">Nous contacter</a></li>
-								<li><a href="postuler.php">Postuler</a></li>
+								<li><a href="#">Nous contacter</a></li>
+								<li><a href="#">Postuler</a></li>
 								<li><a href="devenir-franchise-ratatouille.php">Devenir franchisé</a></li>
-								<li><a href="la-presse-en-parle.php">La presse en parle</a></li>
+								<li><a href="#">La presse en parle</a></li>
 								<li><a href="mentions-legales.php">Mentions légales</a></li>
-								<li><a href="plan-du-site.php">Plan du site</a></li>
+								<li><a href="#">Plan du site</a></li>
 							</ul>
 						</div>
 						<div class="col-xs-12 col-sm-4">

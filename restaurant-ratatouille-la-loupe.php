@@ -33,7 +33,7 @@
 						<div class="blocs_de_textes">
 							<h2 class="featurette-heading"> La carte du restaurant <br/></h2>
 							<p class="text-justify">Retrouvez la carte de notre restaurant. </p>
-							<button class="btn btn-default">Télécharger la carte</button>
+							<button class="btn btn-default"><a href="#">Télécharger la carte</a></button>
 						</div>
 					</div>
 					<div class="col-sm-12 col-md-6">

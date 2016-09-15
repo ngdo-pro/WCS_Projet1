@@ -153,7 +153,7 @@
                             <textarea class="form-control" rows="3"></textarea>
                         </div>
                         <div class="form-button">
-                            <button type="submit" class="btn btn-default">Envoyer</button>
+                            <button type="submit" class="btn btn-default"><a href="#">Envoyer</a></button>
                         </div>
                     </form>
                 </div>
