@@ -16,29 +16,30 @@
 	<body>
 		<!-- Conteneur de la page pour permettre l'utilisation de bootstrap-->
 		<div class="container-fluid">
-			<!-- Première navbar, avec les réseaux sociaux et le drapeau de langage -->
-			<nav class="navbar navbar-default" id="social-navbar">
-				<!-- Conteneur de la navbar -->
-				<div class="container-fluid">
-					<!-- Liste des liens de la navbar-->
-					<ul class="nav navbar-nav">
-						<li>
-							<a href="#"><strong>En</strong></a>
-						</li>
-						<li>
-							<a href="#"><img src="assets/img/Ratatouille-button-facebook.png"></a>
-						</li>
-						<li>
-							<a href="#"><img src="assets/img/Ratatouille-button-twitter.png"></a>
-						</li>
-						<li>
-							<a href="#"><img src="assets/img/Ratatouille-button-instagram.png"></a>
-						</li>
-					</ul>
-				</div>
-			</nav>
-			<!-- Seconde navbar, c'est la principale -->
-			<nav class="navbar navbar-default" id="main-nav">
+			<div class="navbar-fixed-top">
+				<!-- Première navbar, avec les réseaux sociaux et le drapeau de langage -->
+				<nav class="navbar navbar-default" id="social-navbar">
+					<!-- Conteneur de la navbar -->
+					<div class="container-fluid">
+						<!-- Liste des liens de la navbar-->
+						<ul class="nav navbar-nav">
+							<li>
+								<a href="#"><strong>En</strong></a>
+							</li>
+							<li>
+								<a href="#"><img src="assets/img/Ratatouille-button-facebook.png"></a>
+							</li>
+							<li>
+								<a href="#"><img src="assets/img/Ratatouille-button-twitter.png"></a>
+							</li>
+							<li>
+								<a href="#"><img src="assets/img/Ratatouille-button-instagram.png"></a>
+							</li>
+						</ul>
+					</div>
+				</nav>
+				<!-- Seconde navbar, c'est la principale -->
+				<nav class="navbar navbar-default" id="main-nav">
 				<!-- Header de la navbar, avec le logo et le menu hamburger -->
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-nav-collapse" aria-expanded="false">
@@ -67,3 +68,4 @@
 					</ul>
 				</div>
 			</nav>
+			</div>
