@@ -115,7 +115,7 @@ p{
 */
 
 #section_aboutus{
-	background: url('../img/food.jpg') center;
+	background: url('../img/ratatouille-hp-visuel-top.jpg') center;
 	background-size: cover;
 	border-bottom: 1px solid black;
 	margin-bottom: 0;
@@ -127,16 +127,12 @@ p{
 #section_aboutus h1{
 	color: #fff;
 	font-weight: bold;
-	left: 15%;
-	margin-top: 0;
-	position: absolute;
-	text-shadow: 2px 2px black;
-	top: 30%;
+	padding-top: 215px;
 }
 
 #section_aboutus h1 small{
-	color: black;
-	text-shadow: 2px 2px white;
+	color: #fff;
+	font-size: 30px;
 }
 
 #section_aboutus .btn{
@@ -194,6 +190,10 @@ section .btn:hover{
 	margin: auto;
 }
 
+#section_events h2{
+	padding-top: 60px;
+}
+
 #section_events h3{
 	text-align: center;
 }
@@ -205,7 +205,8 @@ section .btn:hover{
 
 #section_events .card{
 	background: linear-gradient(to bottom, transparent, #f0f0f0);
-	margin-bottom: 20px;
+	margin-top: 60px;
+	margin-bottom: 5px;
 	padding: 20px;
 }
 
@@ -218,7 +219,7 @@ section .btn:hover{
 }
 
 #section_franchise{
-	background: url('../img/food.jpg') center;
+	background: url('../img/ratatouille-hp-part-franchise.jpg') center;
 	background-size: cover;
 	position: relative;
 }
@@ -226,15 +227,20 @@ section .btn:hover{
 #section_franchise h2{
 	color: white;
 	margin-top: 0;
-	padding-top: 20px;
+	padding-top: 170px;
+	font-size: 50px;
 }
 
 #section_franchise .btn{
-	bottom: 20px;
+	bottom: 70px;
 	left: 50%;
 	margin-bottom: 0;
 	position: absolute;
 	transform: translateX(-50%);
+}
+
+.button_news{
+	margin-top: 40px;
 }
 
 /*
@@ -249,6 +255,7 @@ section .btn:hover{
 
 #section_introconcept h1{
 	margin-bottom: 10px;
+
 }
 
 #section_introconcept p{
@@ -288,6 +295,7 @@ section .btn:hover{
 #section_boutonsconcept{
 	padding-top:60px;
 	padding-bottom:60px;
+	border-bottom: none;
 }
 
 #section_boutonsconcept .img-responsive{
@@ -390,6 +398,19 @@ PAGE RESTAURANT LA LOUPE
 #section_horaires_acces{
 	padding-top:60px;
 	padding-bottom:60px;
+}
+
+/*
+
+PAGE ACTUALITES
+
+*/
+#section_news_list h1{
+	padding-bottom: 40px;
+}
+
+#section_news_list img{
+	padding-top: 20px;
 }
 
 /*
