@@ -7,10 +7,12 @@
     <section id="section_possibilities_franchise" class="first_section">
         <div class="container">
             <div class="row">
-                <div class="col-md-12">
+                <div class="col-md-6">
                     <h1>DEVENEZ FRANCHISÉ <br />RATATOUILLE</h1>
                 </div>
-                <div class="col-md-12">
+            </div>
+            <div class="row">
+                <div class="col-md-6">
                     <h2>Des possibilités de <br />développement infinies</h2>
                 </div>
             </div>
@@ -18,9 +20,7 @@
                 <div class="col-md-12">
                     <p class="text-justify">Créés en 2014, les restaurants Ratatouille se sont ouverts à la franchise en 2016, après avoir pris
                         le temps de consolider la marque et son concept. Immédiatement reconnaissable grâce à un
-                        positionnement fort et à une approche unique - licence Disney et plat phare : la Ratatouille -
-                        Les restaurants Ratatouille se développent en France. 4 nouvelles ouvertures de restaurant sont
-                        prévues pour fin d'année 2016.</p>
+                        positionnement fort et à un concept unique : la Ratatouille.Les restaurants Ratatouille se développent en France. 4 nouvelles ouvertures de restaurant sont prévues pour fin d'année 2016.</p>
                 </div>
             </div>
             <div class="row franchise-checklist">
@@ -34,8 +34,7 @@
                 <div class="col-md-6">
                     <ul>
                         <li><strong>Vous êtes entrepreneur</strong></li>
-                        <li><strong>Vous souhaitez vous lancer dans votre propre aventure, être autonome à la tête de votre
-                            entreprise et pouvoir vous appuyer sur une structure solide</strong></li>
+                        <li><strong>Vous souhaitez vous lancer dans votre propre aventure, être autonome et pouvoir vous appuyer sur une structure solide</strong></li>
                     </ul>
                 </div>
             </div>
@@ -46,7 +45,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-5">
-                    <img src="assets/img/food.jpg" class="img-responsive img-thumbnail">
+                    <img src="assets/img/ratatouille-vignette-page-franchise.jpg" class="img-responsive">
                 </div>
                 <div class="col-md-7">
                     <ul>
@@ -163,10 +162,10 @@
     </section>
     <section id="section_record_franchise" class="last_section">
         <div class="container">
-            <h2 class="text-center">Témoignage d'un franchisé</h2>
+            <h2 class="text-center">Témoignage d'une franchisée</h2>
             <div class="row">
                 <div class="col-md-2 card">
-                    <img src="assets/img/food2.jpg" class="img-responsive img-circle" width="140px" height="140px">
+                    <img src="assets/img/ratatouille-franchise-photo-jenny.jpg" alt="photo franchisee restaurants ratatouille"class="img-responsive img-circle" width="140px" height="140px">
                 </div>
                 <div class="col-md-10 card">
                     <h3><strong>Jenny, manager du restaurant Ratatouille Fontainebleau</strong></h3>
