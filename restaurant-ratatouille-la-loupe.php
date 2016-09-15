@@ -1,19 +1,16 @@
 <!-- HEADER-->
 <?php
-	$titre = "Nos restaurants Ratatouille";
+	$titre = "Restaurant La Loupe";
 	include ('layout/header.php');
 ?>
 
 
 
-<!-- SECTIONS -->
-<body>
-	<div class="container-fluid">
-		<section id="section_restaurantlaloupe">
-			<h1>RESTAURANT RATATOUILLE <br />LA LOUPE</h1>
-		</section>
-	</div>
-
+<!-- SECTIONS -->	
+	<section id="section_restaurantlaloupe">
+		<h1>RESTAURANT RATATOUILLE <br />LA LOUPE</h1>
+	</section>
+	
 	<div class="container">
 		<div class="page_loupe">
 			<section id="section_chefloupe">	
@@ -45,7 +42,7 @@
 				</div>
 			</section>		
 
-			<section id="section_horaires_acces">
+			<section id="section_horaires_acces" class="last_section">
 				<div class="row"> 
 					<div class="col-sm-12 col-md-6 col-md-push-6">
 						<div class="blocs_de_textes">
@@ -65,16 +62,6 @@
 			</section>
 		</div>
 	</div>
-		<div class="container">
-			<div class="row"> 
-				<section id="api_googlemaps">
-
-
-				</section>
-			</div>
-		</div>
-	</div>
-</body>
 
 <!-- FOOTER-->
 <?php
