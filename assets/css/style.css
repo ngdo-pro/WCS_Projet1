@@ -313,6 +313,24 @@ section .btn:hover{
     text-align: center;
 }
 
+#section_news_list .news_card{
+    margin-bottom: 60px;
+}
+
+#section_news_list .news_card .container{
+	background: #fafafa;
+    border: 1px solid #f0f0f0;
+    padding: 20px;
+}
+
+#section_news_list .news_card .btn{
+    margin-bottom: 0;
+}
+
+#section_news_list .news_card .news_card_button{
+	text-align: center;
+}
+
 
 /*
 
