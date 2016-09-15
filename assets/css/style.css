@@ -115,8 +115,7 @@ p{
 */
 
 #section_aboutus{
-	background: url('../img/food.jpg');
-	background-position: center;
+	background: url('../img/food.jpg') center;
 	background-size: cover;
 	border-bottom: 1px solid black;
 	margin-bottom: 0;
@@ -219,8 +218,7 @@ section .btn:hover{
 }
 
 #section_franchise{
-	background: url('../img/food.jpg');
-	background-position: center;
+	background: url('../img/food.jpg') center;
 	background-size: cover;
 	position: relative;
 }
@@ -303,8 +301,9 @@ section .btn:hover{
 
 */
 
-#section_possibilities_franchise, #section_advantages_franchise, #section_form_franchise, #section_record_franchise{
-	margin-top: 60px;
+.first_section{
+    padding-top: 100px;
+    margin-top: 60px;
 }
 
 #section_possibilities_franchise .franchise-checklist{
@@ -326,10 +325,6 @@ section .btn:hover{
 	PAGE NOS RESTAURANTS
 
 */
-
-#top_page_restaurants{
-	margin-top: 60px;
-}
 
 #top_page_restaurants p{
 	margin-top: 15px;
@@ -368,8 +363,6 @@ PAGE RESTAURANT LA LOUPE
 #section_restaurantlaloupe h1{
 	color: #ffffff;
 	font-weight: bold;
-	font-size: 90px: 
-	left: 15%;
 	margin-top: 0;
 	position: relative;
 	top: 35%;

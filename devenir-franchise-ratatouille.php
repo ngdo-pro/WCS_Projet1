@@ -4,7 +4,7 @@
 
 ?>
 <div class="container">
-    <section id="section_possibilities_franchise">
+    <section id="section_possibilities_franchise" class="first_section">
         <div class="container">
             <div class="row">
                 <div class="col-md-12">
