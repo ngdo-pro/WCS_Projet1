@@ -110,22 +110,6 @@ p{
 
 /*
 
-    SCROLL_TO_TOP
-
-*/
-
-#scroll-to-top{
-    border-radius: 100%;
-    bottom: 5vh;
-    cursor: pointer;
-    height: 50px;
-    position: fixed;
-    right: 5vh;
-    width: 50px;
-}
-
-/*
-
 	SECTION HOMEPAGE
 
 */
@@ -189,7 +173,6 @@ section .btn{
 
 section .btn:hover{
 	background-color: white;
-	border: 1px solid #a30a02;
 	color: #a30a02;
 }
 
