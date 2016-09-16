@@ -7,6 +7,8 @@
 	<h1 class="text-center">LES RESTAURANTS RATATOUILLE <br /><small>Redécouvrez les saveurs de la cuisine du soleil !</small></h1>
 	<button class="btn btn-default"><a href="concept-ratatouille.php">Qui sommes-nous ?</a></button>
 </section>
+
+
 <section id="section_events" >
 	<div class="container-fluid">
 		<h2 class="text-center">Les événements et actualités</h2>

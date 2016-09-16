@@ -22,8 +22,6 @@
 							Siège social : 18 Rue de la gare<br/>
 							28240 La Loupe<br/>
 							Code NAF : 56.10A<br/>
-							Directrice de publication du site : XXX<br/>
-							Chargée d’exploitation : XXX<br/></p>
 							<p>Conception et hébergement du site :<br/>
 							Ce site a été créé par Wild Code School Lyon. Nicolas & Laurie. 
 							Restaurants Ratatouille se réservent la possibilité d’interrompre, de suspendre momentanément ou de modifier sans préavis l’accès à tout ou partie du Service, afin d’en assurer la maintenance, ou pour toute autre raison, sans que l’interruption n’ouvre droit à aucune obligation ni indemnisation.<br/></p>
