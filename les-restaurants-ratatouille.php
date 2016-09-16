@@ -81,7 +81,7 @@
 								<h2 class="text-center">Toulouse</h2>
 								<p class="p_adresse_restaurant">1 place de la Bourse <br/>31000 Toulouse<br/>0475096787</p>
 								<p class="p_hours">Ouvert de 19h à 22h <br/><br/>Fermé les mercredi, jeudi et dimanche </p>
-								<div class="text-center"><button class="btn btn-default"><a href="#">Accès au site</button></div>
+								<div class="text-center"><button class="btn btn-default"><a href="#">Accès au site</a></button></div>
 							</div>
 						</div>
 					</div>
