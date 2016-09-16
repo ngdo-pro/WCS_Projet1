@@ -40,9 +40,6 @@ p{
 	border-radius: 0;
 }
 
-#social-navbar ul, #main-nav ul{
-	float: right;
-}
 
 #social-navbar{
 	margin-bottom: 0;
@@ -68,6 +65,10 @@ p{
 
 #social-navbar img{
 	height: 30px;
+}
+
+#main-nav a{
+	padding-right: 25px;
 }
 
 #main-nav{
@@ -99,7 +100,7 @@ p{
 	background-color: #a30a02;
 	color: #fff;
 }
-.nav>li{
+#social-navbar .nav>li{
 	float: left;
 	position: relative;
 }
