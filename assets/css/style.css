@@ -394,7 +394,11 @@ section .btn:hover{
     position: relative;
 }
 
-
+@media screen and (max-width: 768px){
+	.card_restaurants{
+		margin: 120px auto;
+	}
+}
 
 .card_restaurants img{
     left: 50%;
@@ -475,7 +479,7 @@ PAGE ACTUALITES
 
 
 #section_news_list .news_card{
-    margin-bottom: 60px;
+    margin-bottom: 100px;
 }
 
 #section_news_list .news_card .container{
@@ -523,7 +527,6 @@ footer img{
 }
 
 footer p{
-	padding-top: 10px;
 	padding-top: 20px;
 	font-size: 11px;
 }
