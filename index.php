@@ -4,9 +4,14 @@
 ?>
 <!-- Header de la page, avec un visuel et le slogan--> 
 <section id="section_aboutus">
+	<div class="container">
 	<h1 class="text-center">LES RESTAURANTS RATATOUILLE <br /><small>Redécouvrez les saveurs de la cuisine du soleil !</small></h1>
 	<button class="btn btn-default"><a href="concept-ratatouille.php">Qui sommes-nous ?</a></button>
+	</div>
 </section>
+</div>
+
+
 <section id="section_events" >
 	<div class="container-fluid">
 		<h2 class="text-center">Les événements et actualités</h2>

@@ -12,14 +12,14 @@
 		<section id="section_introconcept" class="first_section">
 		<div class="container">
 			<div class="row"> 	<!-- H1 + LOGO -->
-				<div class="col-sm-12 col-md-6">
+				<div class="col-xs-12 col-md-6">
 					<h1 class="text-left">LE CONCEPT RATATOUILLE </h1>
 					<p class="text-left">On dirait le sud... La ratatouille, ce plat réconfortant et authentique qui nous rappelle les longues et belles tablées familiales. <br/> Les restaurants Ratatouille rappelent cette douceur de vivre du sud. La ratatouille y est declinée sous toutes ses formes. <br/>Venez redécouvrir ce plat savoureux et coloré : ratatouille froide, en cake, à la maltaise, à la grecque ou encore à la Catalane.</p>	
 				</div>
 				
 				<aside>
 				<div class="col-xs-12 col-md-6"> <!-- LOGO R -->
-					<img src="assets/img/logo-ratatouille-page-concept-250x250.png" alt="Logo Ratatouille" width="180" height="180"> 
+					<img src="assets/img/logo-ratatouille-page-concept-250x250.png" class="img-responsive" alt="Logo Ratatouille" width="180" height="180"> 
 				</div>
 				</aside>			
 			</div>			
@@ -36,7 +36,7 @@
 					</div>
 				</div>
 				<div class="col-sm-12 col-md-6 col-md-pull-6">
-					<img src="assets/img/ratatouille-concept-histoire.jpg" alt="photo-histoire-restaurants-ratatouille">
+					<img src="assets/img/ratatouille-concept-histoire.jpg" class="img-responsive" alt="photo-histoire-restaurants-ratatouille">
 				</div>		
 			</div>
 		</section>			
@@ -51,7 +51,7 @@
 					</div>
 				</div>
 				<div class="col-sm-12 col-md-6">
-					<img src="assets/img/ratatouille-concept-savoirfaire.jpg" alt="photo-savoir-faire-restaurants-ratatouille">
+					<img src="assets/img/ratatouille-concept-savoirfaire.jpg" class="img-responsive" alt="photo-savoir-faire-restaurants-ratatouille">
 				</div>
 			</div>
 		</section>

@@ -127,10 +127,10 @@ a:hover{
 #section_aboutus{
 	background: url('../img/ratatouille-HP-visuel-top.jpg') center;
 	background-size: cover;
+	height: 100vh;
 	border-bottom: 1px solid black;
 	margin-bottom: 0;
 	margin-top: 0;
-	height: 100vh;
 	position: relative;
 }
 
