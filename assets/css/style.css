@@ -50,9 +50,6 @@ a:hover{
 	border-radius: 0;
 }
 
-#social-navbar ul, #main-nav ul{
-	float: right;
-}
 
 #social-navbar{
 	margin-bottom: 0;
@@ -78,6 +75,10 @@ a:hover{
 
 #social-navbar img{
 	height: 30px;
+}
+
+#main-nav a{
+	padding-right: 25px;
 }
 
 #main-nav{
@@ -109,7 +110,7 @@ a:hover{
 	background-color: #a30a02;
 	color: #fff;
 }
-.nav>li{
+#social-navbar .nav>li{
 	float: left;
 	position: relative;
 }
